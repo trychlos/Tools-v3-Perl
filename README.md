@@ -1,0 +1,1 @@
+As of 2025-04-01, this project is obsoleted, and replaced with [TheToolsProject](https://github.com/trychlos/TheToolsProject), which gathers both Perl and Shell flavors, and runs both on Linux and Windows.
